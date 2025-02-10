@@ -1,0 +1,3 @@
+psutil>=5.8.0
+# On Windows, install windows-curses; on Linux/macOS, curses is included.
+windows-curses>=2.2.0; sys_platform == 'win32'

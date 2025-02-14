@@ -39,5 +39,5 @@ Then, run it directly using:
 kawaii-monitor
 ```
 
+![Kawaii Monitor Screenshot](https://github.com/fearyan/kawaii-monitor/blob/main/screenshot.png?raw=true)
 
-![Kawaii Monitor Screenshot](screenshot.png)

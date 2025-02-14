@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kawaii-monitor"
-version = "1.1.0"
+version = "1.1.2"
 description = "A kawaii system monitor with cute emojis and detailed system info."
 readme = "README.md"
 authors = [

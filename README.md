@@ -38,3 +38,6 @@ Then, run it directly using:
 ```bash
 kawaii-monitor
 ```
+
+
+![Kawaii Monitor Screenshot](screenshot.png)
